@@ -7,20 +7,20 @@ int main(void) {
     double a, b, d;
     char op;
 
-    printf("=============== CALCULATOR ===============\n");
-    printf("\tOperator list : \n");
-    printf("\tAddition : +\n");
-    printf("\tSubtraction : -\n");
-    printf("\tMultiplication : *\n");
-    printf("\tDivision : /\n");
-    printf("\tSquare : 2\n");
-    printf("\tCube : 3\n");
-    printf("\tPower : ^\n");
-    printf("\tSquare root : s\n");
-    printf("\tClear : c\n");
-    printf("\tModulo : %%\n");
-    printf("\tEnd : #\n");
-    printf("==========================================\n");
+    printf("=============== CALCULATOR ===============\n"
+            "\tOperator list : \n"
+            "\tAddition : +\n"
+            "\tSubtraction : -\n"
+            "\tMultiplication : *\n"
+            "\tDivision : /\n"
+            "\tSquare : 2\n"
+            "\tCube : 3\n"
+            "\tPower : ^\n"
+            "\tSquare root : s\n"
+            "\tClear : c\n"
+            "\tModulo : %%\n"
+            "\tEnd : #\n"
+            "==========================================\n");
 
 
 
