@@ -1,6 +1,8 @@
-#include <stdio.h>
+#include <windows.h>
 
-int main2(void) {
-    printf("Hello, World!\n");
+int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, 
+    LPSTR lpCmdLine, int nCmdShow)
+{
+    MessageBoxA(NULL, "Goodbye, cruel world!", "Note", MB_OK);
     return 0;
 }
