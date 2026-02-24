@@ -2,3 +2,5 @@
 *.user
 *.VC.db
 *.opendb
+bin/
+obj/
